@@ -7,3 +7,7 @@
 
 "Vision":
   color: "#009f36"
+
+"Middleware":
+  url: https://middleware-conf.github.io/2025/
+  color: "#3066be"
