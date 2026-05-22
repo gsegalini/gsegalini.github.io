@@ -73,13 +73,6 @@ ninja.data = [{
           window.open("https://github.com/gsegalini", "_blank");
         },
       },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%67%69%75%6C%69%6F%73%65%67%61%6C%69%6E%69@%70%72%6F%74%6F%6E%6D%61%69%6C.%63%6F%6D", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
