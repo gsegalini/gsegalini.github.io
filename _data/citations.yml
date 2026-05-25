@@ -1,1 +1,15 @@
-# Citation metadata can be generated once publications are added.
+metadata:
+  last_updated: '2026-05-25'
+papers:
+  DoN-jpkAAAAJ:2osOgNQ5qMEC:
+    citations: 0
+    title: Byzantine-Resilient Federated Computation of Differentially Private Summary Statistics
+    year: '2025'
+  DoN-jpkAAAAJ:9yKSN-GCB0IC:
+    citations: 0
+    title: Optimal decision trees for the Algorithm Selection Problem
+    year: '2023'
+  DoN-jpkAAAAJ:d1gkVwhDpl0C:
+    citations: 0
+    title: Fair Transaction Ordering on DAGs
+    year: '2025'
