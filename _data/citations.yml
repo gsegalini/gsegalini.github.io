@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-07-03'
 papers:
   DoN-jpkAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -13,3 +13,7 @@ papers:
     citations: 0
     title: Fair Transaction Ordering on DAGs
     year: '2025'
+  DoN-jpkAAAAJ:qjMakFHDy7sC:
+    citations: 0
+    title: 'Tilikum: Transaction Fair Ordering on a DAG without Weak Edges'
+    year: '2026'
