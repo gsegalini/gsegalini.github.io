@@ -11,9 +11,7 @@ horizontal: false
 
 <!-- pages/projects.md -->
 <div class="projects">
-{% if site.projects.size == 0 %}
-  <p>Projects will be added here.</p>
-{% elsif site.enable_project_categories and page.display_categories %}
+{% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
@@ -62,6 +60,6 @@ horizontal: false
       {% include projects.liquid %}
     {% endfor %}
   </div>
-{% endif %}
+  {% endif %}
 {% endif %}
 </div>
