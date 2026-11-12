@@ -11,3 +11,11 @@
 "Middleware":
   url: https://middleware-conf.github.io/2025/
   color: "#3066be"
+
+"NeurIPS":
+  url: https://neurips.cc/
+  color: "#3066be"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#3066be"
