@@ -16,6 +16,14 @@
   url: https://neurips.cc/
   color: "#68448b"
 
+"ICML":
+  url: https://icml.cc/
+  color: "#2a419e"
+
+"ICLR":
+  url: https://iclr.cc/
+  color: "#36751e" # Darkened logo green for readable white labels.
+
 "arXiv":
   url: https://arxiv.org/
   color: "#b31b1b"
