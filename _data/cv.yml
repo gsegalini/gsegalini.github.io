@@ -5,8 +5,8 @@ cv:
   location: Neuchatel, Switzerland
   website: https://gsegalini.github.io
   summary: >
-    PhD candidate in AI safety and security with research interests in privacy,
-    cryptography, and secure systems. Background in computer science, teaching,
+    PhD candidate in AI safety and security with research interests in AI agents safety,
+    trustworthy AI, security & privacy. Background in computer science, teaching,
     and systems and security engineering.
 
   social_networks:
@@ -58,7 +58,7 @@ cv:
         start_date: 2025
         location: Neuchatel, Switzerland
         highlights:
-          - "Research interests: AI safety and security, privacy, cryptography"
+          - "Research interests: AI agents safety, trustworthy AI, security & privacy"
           - "Technologies and platforms used: Python, Linux, Torch, CUDA, Docker"
       - company: Delft University of Technology
         position: Head Teaching Assistant for Network Security, Operating Systems and Distributed Algorithms
@@ -100,10 +100,31 @@ cv:
           - "Technologies and platforms used: Rust, Vulkan, Linux, Wayland"
 
     Publications:
+      - title: "GOLIATH: Gradient Inversion of Tabular Diffusion Models"
+        publisher: Advances in Neural Information Processing Systems (NeurIPS 2026)
+        date: 2026
+        url: https://openreview.net/forum?id=GXxPzaSox4
+        summary: "Giulio Segalini, Aditya Shankar, Jérémie Decouchant, and Lydia Y. Chen. DOI: forthcoming."
+      - title: "Absorbed in Inertia: Activation Analysis for Computer-Use Agents"
+        publisher: arXiv preprint arXiv:2609.37176
+        date: 2026
+        url: https://arxiv.org/abs/2609.37176
+        summary: Giulio Segalini, Zhi Wen Soi, Jérémie Decouchant, and Lydia Chen.
+      - title: "MISHAP-Bench: A Hallucination Benchmark for Large Audio-Language Models"
+        publisher: arXiv preprint arXiv:2609.33893
+        date: 2026
+        url: https://arxiv.org/abs/2609.33893
+        summary: Zhi Wen Soi, Giulio Segalini, Jian-Jia Chen, and Lydia Chen.
+      - title: "Tilikum: Transaction Fair Ordering on a DAG without Weak Edges"
+        publisher: arXiv preprint arXiv:2606.27250
+        date: 2026
+        url: https://arxiv.org/abs/2606.27250
+        summary: Giulio Segalini, Yigit Çolakoğlu, Marko Putnik, and Jérémie Decouchant.
       - title: Byzantine-Resilient Federated Computation of Differentially Private Summary Statistics
         publisher: ACM Middleware 2025
         date: 2025
-        summary: Giulio Segalini, Maria Fernandes, and Jeremie Decouchant.
+        url: https://doi.org/10.1145/3721462.3770766
+        summary: Giulio Segalini, Maria Fernandes, and Jérémie Decouchant.
 
     Awards:
       - date: 2024

@@ -26,7 +26,7 @@ latest_posts:
 ---
 
 I am a PhD candidate at the University of Neuchâtel.
-My work focuses on AI privacy and security, especially in agentic or generative systems, privacy-preserving computation, and secure distributed/federated systems.
+My research interests are AI agents safety, trustworthy AI, security & privacy.
 
 Before starting my PhD, I completed a cum laude M.Sc. in Computer Science through the 4TU Cybersecurity program at Delft University of Technology. I also worked as a (head) teaching assistant for various courses including Network Security, Operating Systems, Computer Security, and Distributed Algorithms.
 
